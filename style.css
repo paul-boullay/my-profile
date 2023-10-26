@@ -1,0 +1,142 @@
+body {
+	background-image: url("images/background.jpg");
+	color: rgb(0, 0, 0, 1.0);
+	font-family: courrier;
+}
+
+h1 {
+    color: marroon;
+    font-family: courrier;
+    font-weight: 100;
+    letter-spacing: normal;
+    font-size: normal;
+    text-transform: uppercase;
+}
+
+
+div {
+	background:rgba(0, 0, 0, 0.5);
+	padding: 30px;
+	border-radius: 10px;
+	border: 2px solid black;
+	width: 500px;
+	color: whitesmoke;
+	
+}
+
+#list-div-1 {
+	list-style: none;
+	display: flex;
+	padding-top: 10px;
+	padding-left: 30px;
+	margin-bottom: 15px;
+}
+#list-div-1-div-left {
+	padding: 0px;
+	width: 380px;
+	height: 460px;
+}
+#list-div-1-right {
+	margin-left: 10px;
+	width: 700px;
+}
+#list-div-1-Ieseg {
+	padding-left: 0px;
+	padding-top: 0px;
+	margin-top: 0px;
+	list-style: none;
+	display: flex
+}
+#logo-ieseg-list-div-1-Ieseg {
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 5ps;
+	margin-left: 5px;
+	width: 20px;
+	height: 20px;
+}
+#list-div-1-Ieseg-link {
+	color: whitesmoke;
+	text-underline-offset: none;
+}
+#list-div-1-Ieseg-link:hover {
+	color: purple;
+}
+#list-div-2 {
+	list-style: none;
+	display: inline-flex;
+	margin-left: 0px;
+	padding-left: 30px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+#list-div-2-div-left {
+	width: 350px;
+	padding-right: 0px;
+	padding-left: 30px;
+}
+#list-div-2-right {
+	margin-left:10px;
+	width: 700px;
+}
+
+#list-div-3
+{
+	list-style: none;
+	display: flex;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+
+#div-world-map {
+	margin-left: 30px;
+	width: 1090px;
+	background: rgba(200, 200, 200, 0.5);
+}
+#div-world-map-image {
+	width: 1050px;
+	height: 600px;
+	border-radius: 5%;
+
+}
+#div-world-map-scale
+{
+	margin-left: 10px;
+	width: 150px;
+
+}
+
+#list-div-3-scale
+{
+
+
+}
+
+#logo-localisation-1
+{
+	width: 80px;
+	height: 50px;
+	border-radius: 50%;
+}
+
+#logo-localisation-2
+{
+	width: 80px; 
+	height: 50px;
+	border-radius: 50%;
+}
+
+
+.img-profile {
+	width: 380px;
+	height: 460px;
+	border-radius: 10px;
+	margin-left: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+
+
